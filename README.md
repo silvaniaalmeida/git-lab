@@ -23,7 +23,7 @@ com exercícios práticos realizados neste repositório.
 - [x] Etapa 1 — Fundamentos e configuração
 - [x] Etapa 2 — Controle de versões
 - [x] Etapa 3 — Branches e colaboração
-- [ ] Etapa 4 — Revisão e gerenciamento de alterações
-- [ ] Etapa 5 — Resolução de conflitos
+- [x] Etapa 4 — Revisão e gerenciamento de alterações
+- [x] Etapa 5 — Resolução de conflitos
 - [ ] Etapa 6 — Boas práticas e portfólio
 - [ ] Etapa 7 — Projeto prático completo
