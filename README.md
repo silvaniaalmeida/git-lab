@@ -14,6 +14,14 @@ Este repositório é utilizado para praticar:
 - Integração de alterações com merge
 - Colaboração por meio de Pull Requests
 
+## Tecnologias e ferramentas
+
+- Git — controle de versões
+- GitHub — hospedagem e colaboração
+- Terminal macOS — execução dos comandos Git
+- GitHub CLI (gh) — gerenciamento de repositórios e Pull Requests
+- Markdown — documentação dos projetos
+
 
 ## Plano de Aprendizado Git e GitHub
 
@@ -27,3 +35,4 @@ com exercícios práticos realizados neste repositório.
 - [x] Etapa 5 — Resolução de conflitos
 - [ ] Etapa 6 — Boas práticas e portfólio
 - [ ] Etapa 7 — Projeto prático completo
+
