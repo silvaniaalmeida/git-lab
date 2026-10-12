@@ -13,3 +13,17 @@ Este repositório é utilizado para praticar:
 - Controle de versões com commits
 - Integração de alterações com merge
 - Colaboração por meio de Pull Requests
+
+
+## Plano de Aprendizado Git e GitHub
+
+Este plano registra a evolução do aprendizado de Git e GitHub,
+com exercícios práticos realizados neste repositório.
+
+- [x] Etapa 1 — Fundamentos e configuração
+- [x] Etapa 2 — Controle de versões
+- [x] Etapa 3 — Branches e colaboração
+- [ ] Etapa 4 — Revisão e gerenciamento de alterações
+- [ ] Etapa 5 — Resolução de conflitos
+- [ ] Etapa 6 — Boas práticas e portfólio
+- [ ] Etapa 7 — Projeto prático completo
